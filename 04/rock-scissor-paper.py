@@ -94,4 +94,5 @@ elif user_choice == "3" and computer == "3":
     print(scissor)
     print("The Game Tie! Both choose Scissor")
     print(scissor)
-
+else:
+    print("You enter the wrong number")
